@@ -1,3 +1,12 @@
+<img width="499" alt="spotify4" src="https://user-images.githubusercontent.com/71287015/217544784-eab70c46-ff8b-4fbc-8c6a-78098b9d9c56.png">
+<img width="1440" alt="spotify2" src="https://user-images.githubusercontent.com/71287015/217544799-de8bfe5f-e64e-4c9a-8345-281c8a0ca20e.png">
+<img width="1440" alt="spotify1" src="https://user-images.githubusercontent.com/71287015/217544812-8f0a732d-0dc5-4ad7-bab6-10cf9906ed0d.png">
+<img width="499" alt="spotify3" src="https://user-images.githubusercontent.com/71287015/217544818-ad2c3551-918e-4d49-bd0f-3df2b73066ac.png">
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
